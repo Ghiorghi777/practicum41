@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    background-color: #28d3a3;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+ol{
+    list-style-type:decinal;margin-left: 20px;
+}
+ul{
+    list-style-type:circle;margin-left: 40px;
+}
